@@ -11,3 +11,4 @@
 2024-02-16T11:05:34 - improve challenge acceptance
 2024-02-16T13:02:54 - fix castling encoding
 2024-02-16T19:04:39 - update MCTS exploration
+2024-02-16T18:42:52 - add opening book support
