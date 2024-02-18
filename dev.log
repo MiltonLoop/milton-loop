@@ -19,3 +19,4 @@
 2024-02-17T12:36:17 - minor fixes
 2024-02-17T17:40:58 - optimize board encoding
 2024-02-17T15:36:24 - fix repetition handling
+2024-02-18T23:01:47 - fix tests
