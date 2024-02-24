@@ -40,3 +40,4 @@
 2024-02-23T10:27:43 - add reconnection logic
 2024-02-23T10:58:14 - fix move generation
 2024-02-23T09:34:35 - add variant support
+2024-02-24T22:37:23 - fix lichess integration
