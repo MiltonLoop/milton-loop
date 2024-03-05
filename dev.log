@@ -73,3 +73,4 @@
 2024-03-04T22:44:46 - fix checkpoint loading
 2024-03-05T23:30:02 - add data augmentation
 2024-03-05T19:11:47 - improve training stability
+2024-03-05T22:09:45 - fix policy head
