@@ -83,3 +83,4 @@
 2024-03-07T20:30:04 - add parallel search
 2024-03-08T16:33:26 - optimize memory usage
 2024-03-08T23:42:56 - refactor encoding module
+2024-03-08T23:16:38 - add opening book support
