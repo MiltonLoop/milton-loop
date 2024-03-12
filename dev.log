@@ -93,3 +93,4 @@
 2024-03-11T13:18:37 - update dependencies
 2024-03-12T09:54:05 - update arena scoring
 2024-03-12T10:20:41 - refactor game loop
+2024-03-12T14:23:47 - fix gradient clipping
