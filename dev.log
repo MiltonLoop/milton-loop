@@ -101,3 +101,4 @@
 2024-03-14T19:43:35 - fix gradient clipping
 2024-03-14T15:53:52 - update dirichlet noise
 2024-03-14T21:08:42 - improve MCTS rollouts
+2024-03-14T18:11:23 - refactor model architecture
