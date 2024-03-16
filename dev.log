@@ -105,3 +105,4 @@
 2024-03-15T19:23:49 - fix tests
 2024-03-15T17:29:51 - fix clock management
 2024-03-16T21:33:53 - fix edge case in search
+2024-03-16T10:58:42 - improve self-play speed
