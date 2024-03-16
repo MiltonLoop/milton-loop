@@ -104,3 +104,4 @@
 2024-03-14T18:11:23 - refactor model architecture
 2024-03-15T19:23:49 - fix tests
 2024-03-15T17:29:51 - fix clock management
+2024-03-16T21:33:53 - fix edge case in search
