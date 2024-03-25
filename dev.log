@@ -141,3 +141,4 @@
 2024-03-24T22:04:41 - fix time management
 2024-03-24T10:05:03 - fix batch normalization
 2024-03-25T14:02:41 - fix win rate tracking
+2024-03-25T17:15:01 - update training loop
