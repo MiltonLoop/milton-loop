@@ -155,3 +155,4 @@
 2024-03-30T18:05:48 - fix en passant encoding
 2024-03-31T16:30:58 - add reconnection logic
 2024-03-31T13:42:29 - improve data pipeline
+2024-03-31T19:43:31 - add arena evaluation
