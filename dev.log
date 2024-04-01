@@ -157,3 +157,4 @@
 2024-03-31T13:42:29 - improve data pipeline
 2024-03-31T19:43:31 - add arena evaluation
 2024-04-01T20:36:21 - add tests
+2024-04-01T11:22:34 - fix checkpoint loading
