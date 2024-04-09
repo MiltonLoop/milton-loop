@@ -183,3 +183,4 @@
 2024-04-08T17:00:38 - stability improvements
 2024-04-08T21:28:13 - update requirements
 2024-04-09T23:44:59 - fix timeout handling
+2024-04-09T10:47:57 - refactor encoding module
