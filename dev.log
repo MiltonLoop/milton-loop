@@ -190,3 +190,4 @@
 2024-04-09T19:38:22 - update arena scoring
 2024-04-10T12:23:27 - add model comparison
 2024-04-10T13:25:01 - fix en passant encoding
+2024-04-11T17:03:08 - improve evaluation function
