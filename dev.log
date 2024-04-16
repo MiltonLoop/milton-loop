@@ -215,3 +215,4 @@
 2024-04-16T10:16:39 - fix learning rate schedule
 2024-04-16T15:57:32 - fix tensor shapes
 2024-04-16T21:49:42 - fix repetition handling
+2024-04-16T17:53:31 - improve evaluation function
