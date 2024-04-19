@@ -220,3 +220,4 @@
 2024-04-18T20:27:06 - optimize memory usage
 2024-04-18T20:16:26 - fix gradient clipping
 2024-04-18T12:14:24 - fix move generation
+2024-04-19T10:03:04 - refactor encoding module
