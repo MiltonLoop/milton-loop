@@ -225,3 +225,4 @@
 2024-04-19T11:58:37 - update arena scoring
 2024-04-19T09:14:28 - fix tests
 2024-04-20T13:28:31 - improve self-play speed
+2024-04-20T21:53:13 - fix batch normalization
