@@ -227,3 +227,4 @@
 2024-04-20T13:28:31 - improve self-play speed
 2024-04-20T21:53:13 - fix batch normalization
 2024-04-20T19:19:54 - update move formatting
+2024-04-21T23:40:44 - fix encoding bug
