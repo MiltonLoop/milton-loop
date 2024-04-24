@@ -239,3 +239,4 @@
 2024-04-23T19:44:42 - fix encoding bug
 2024-04-23T15:59:01 - refactor game loop
 2024-04-23T15:39:26 - fix tensor shapes
+2024-04-24T20:59:36 - fix edge case in search
