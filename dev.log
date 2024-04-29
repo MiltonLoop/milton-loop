@@ -261,3 +261,4 @@
 2024-04-28T09:34:59 - update move formatting
 2024-04-29T12:09:41 - update dirichlet noise
 2024-04-29T18:46:44 - fix gradient clipping
+2024-04-29T17:01:09 - add draw detection
