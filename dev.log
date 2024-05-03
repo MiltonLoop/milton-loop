@@ -280,3 +280,4 @@
 2024-05-02T20:31:39 - performance improvements
 2024-05-02T09:11:33 - add checkpoint saving
 2024-05-03T15:15:25 - fix timeout handling
+2024-05-03T10:17:03 - update self-play worker
