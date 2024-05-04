@@ -282,3 +282,4 @@
 2024-05-03T15:15:25 - fix timeout handling
 2024-05-03T10:17:03 - update self-play worker
 2024-05-04T20:42:01 - optimize board encoding
+2024-05-04T13:41:44 - improve move selection
