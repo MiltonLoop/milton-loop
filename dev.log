@@ -299,3 +299,4 @@
 2024-05-08T14:06:23 - fix en passant encoding
 2024-05-09T12:10:33 - update promotion logic
 2024-05-09T20:02:39 - improve self-play speed
+2024-05-09T12:14:46 - fix gradient clipping
