@@ -298,3 +298,4 @@
 2024-05-08T11:18:01 - fix castling encoding
 2024-05-08T14:06:23 - fix en passant encoding
 2024-05-09T12:10:33 - update promotion logic
+2024-05-09T20:02:39 - improve self-play speed
