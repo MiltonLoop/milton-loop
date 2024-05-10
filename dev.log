@@ -301,3 +301,4 @@
 2024-05-09T20:02:39 - improve self-play speed
 2024-05-09T12:14:46 - fix gradient clipping
 2024-05-09T18:37:35 - refactor model architecture
+2024-05-10T12:56:27 - improve move selection
