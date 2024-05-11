@@ -304,3 +304,4 @@
 2024-05-10T12:56:27 - improve move selection
 2024-05-10T09:59:21 - fix checkpoint loading
 2024-05-10T21:18:20 - fix learning rate schedule
+2024-05-11T16:22:12 - fix gradient clipping
