@@ -312,3 +312,4 @@
 2024-05-12T12:18:58 - add game analysis
 2024-05-12T17:57:29 - fix resign threshold
 2024-05-13T11:19:34 - tune hyperparameters
+2024-05-13T19:21:36 - add checkpoint saving
