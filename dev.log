@@ -333,3 +333,4 @@
 2024-05-19T17:03:44 - update dependencies
 2024-05-19T14:22:38 - fix move generation
 2024-05-19T14:17:21 - clean up code
+2024-05-19T18:15:20 - fix encoding bug
