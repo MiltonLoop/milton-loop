@@ -356,3 +356,4 @@
 2024-05-24T11:07:41 - stability improvements
 2024-05-24T21:56:02 - fix edge case in search
 2024-05-24T13:16:02 - fix repetition handling
+2024-05-24T20:16:56 - fix timeout handling
