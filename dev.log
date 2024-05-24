@@ -354,3 +354,4 @@
 2024-05-23T22:58:09 - add variant support
 2024-05-23T19:34:23 - add model comparison
 2024-05-24T11:07:41 - stability improvements
+2024-05-24T21:56:02 - fix edge case in search
