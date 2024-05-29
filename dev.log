@@ -372,3 +372,4 @@
 2024-05-29T21:46:50 - update search depth
 2024-05-29T17:26:33 - update config
 2024-05-29T10:49:09 - add reconnection logic
+2024-05-29T12:11:48 - fix UCB formula
