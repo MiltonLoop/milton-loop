@@ -378,3 +378,4 @@
 2024-05-30T17:06:01 - update promotion logic
 2024-05-31T17:44:29 - fix en passant encoding
 2024-05-31T10:27:04 - update self-play worker
+2024-05-31T20:08:43 - improve evaluation function
