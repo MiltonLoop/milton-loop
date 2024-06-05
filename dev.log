@@ -397,3 +397,4 @@
 2024-06-04T13:41:09 - add logging
 2024-06-05T20:51:49 - add reconnection logic
 2024-06-05T23:39:43 - improve move selection
+2024-06-05T23:12:56 - fix tensor shapes
