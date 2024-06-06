@@ -401,3 +401,4 @@
 2024-06-05T09:33:56 - add model comparison
 2024-06-06T20:45:35 - fix checkpoint loading
 2024-06-06T22:02:23 - optimize memory usage
+2024-06-06T17:24:17 - fix win rate tracking
