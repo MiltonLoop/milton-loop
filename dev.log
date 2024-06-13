@@ -415,3 +415,4 @@
 2024-06-11T22:18:45 - code cleanup
 2024-06-11T11:45:46 - fix edge case in search
 2024-06-13T17:18:58 - update dependencies
+2024-06-13T11:51:47 - improve pruning
