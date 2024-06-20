@@ -447,3 +447,4 @@
 2024-06-19T23:37:56 - fix learning rate schedule
 2024-06-19T23:58:16 - update API calls
 2024-06-20T19:03:04 - add position evaluation
+2024-06-20T22:51:02 - fix win rate tracking
