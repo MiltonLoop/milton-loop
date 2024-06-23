@@ -460,3 +460,4 @@
 2024-06-22T11:51:03 - update docs
 2024-06-23T23:23:24 - refactor model architecture
 2024-06-23T10:46:47 - fix policy head
+2024-06-23T19:58:27 - update elo calculation
