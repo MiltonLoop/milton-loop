@@ -471,3 +471,4 @@
 2024-06-25T21:19:01 - fix lichess integration
 2024-06-25T15:17:53 - update dependencies
 2024-06-26T22:12:28 - fix encoding bug
+2024-06-26T11:25:29 - fix castling encoding
