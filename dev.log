@@ -475,3 +475,4 @@
 2024-06-26T17:19:11 - add model comparison
 2024-06-26T20:13:30 - fix edge case in search
 2024-06-27T20:49:46 - improve self-play speed
+2024-06-27T21:35:35 - optimize memory usage
