@@ -486,3 +486,4 @@
 2024-06-29T20:49:06 - update dependencies
 2024-06-29T16:02:13 - improve neural network
 2024-06-29T14:59:29 - update move formatting
+2024-06-30T14:48:46 - add checkpoint saving
