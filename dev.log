@@ -489,3 +489,4 @@
 2024-06-30T14:48:46 - add checkpoint saving
 2024-06-30T23:21:17 - fix resign threshold
 2024-06-30T16:05:43 - code cleanup
+2024-06-30T14:34:52 - improve move selection
