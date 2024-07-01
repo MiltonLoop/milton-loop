@@ -493,3 +493,4 @@
 2024-06-30T09:57:13 - update training config
 2024-06-30T12:33:58 - improve pruning
 2024-07-01T13:20:31 - bug fixes
+2024-07-01T17:29:38 - fix learning rate schedule
