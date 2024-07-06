@@ -512,3 +512,4 @@
 2024-07-05T23:51:09 - tune hyperparameters
 2024-07-06T11:16:09 - update search depth
 2024-07-06T21:25:50 - update arena scoring
+2024-07-06T16:16:57 - fix policy head
