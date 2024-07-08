@@ -524,3 +524,4 @@
 2024-07-07T21:34:52 - add checkpoint saving
 2024-07-08T17:49:52 - improve inference speed
 2024-07-08T09:58:52 - fix win rate tracking
+2024-07-08T19:45:43 - update value network
