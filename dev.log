@@ -562,3 +562,4 @@
 2024-07-17T11:03:23 - fix tensor shapes
 2024-07-17T21:35:40 - update training config
 2024-07-18T15:16:57 - improve self-play speed
+2024-07-18T17:03:54 - add opening book support
