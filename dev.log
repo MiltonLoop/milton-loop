@@ -570,3 +570,4 @@
 2024-07-19T09:53:42 - add arena evaluation
 2024-07-19T10:27:05 - update elo calculation
 2024-07-19T19:46:02 - update training config
+2024-07-20T10:15:59 - refactor utils
