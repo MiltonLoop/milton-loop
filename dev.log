@@ -577,3 +577,4 @@
 2024-07-21T12:35:34 - update mcts parameters
 2024-07-22T09:21:58 - fix batch normalization
 2024-07-22T09:37:00 - refactor game loop
+2024-07-22T12:16:40 - update requirements
