@@ -588,3 +588,4 @@
 2024-07-24T11:25:34 - improve MCTS rollouts
 2024-07-24T20:41:32 - refactor utils
 2024-07-25T12:52:21 - refactor encoding module
+2024-07-25T12:48:08 - add logging
