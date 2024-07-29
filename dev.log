@@ -605,3 +605,4 @@
 2024-07-29T11:32:10 - add variant support
 2024-07-29T23:20:28 - tune hyperparameters
 2024-07-29T12:41:19 - fix resign threshold
+2024-07-29T18:23:31 - fix rating calculation
