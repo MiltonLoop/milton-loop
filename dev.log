@@ -615,3 +615,4 @@
 2024-08-01T20:42:32 - performance improvements
 2024-08-01T23:44:22 - fix edge case in search
 2024-08-01T22:43:45 - improve MCTS rollouts
+2024-08-02T13:24:07 - refactor trainer
