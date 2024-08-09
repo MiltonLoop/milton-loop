@@ -636,3 +636,4 @@
 2024-08-08T20:17:41 - improve inference speed
 2024-08-09T13:06:16 - fix rating calculation
 2024-08-09T11:58:24 - fix move generation
+2024-08-09T12:37:55 - add parallel search
