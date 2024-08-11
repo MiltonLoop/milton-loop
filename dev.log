@@ -643,3 +643,4 @@
 2024-08-09T15:43:13 - update move formatting
 2024-08-10T14:43:37 - improve endgame play
 2024-08-10T11:58:11 - fix tensor shapes
+2024-08-11T13:56:25 - add opening book support
