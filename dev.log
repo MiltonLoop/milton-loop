@@ -644,3 +644,4 @@
 2024-08-10T14:43:37 - improve endgame play
 2024-08-10T11:58:11 - fix tensor shapes
 2024-08-11T13:56:25 - add opening book support
+2024-08-11T23:44:39 - update promotion logic
