@@ -648,3 +648,4 @@
 2024-08-11T09:37:36 - add game analysis
 2024-08-12T10:40:18 - add arena evaluation
 2024-08-12T19:06:46 - update training loop
+2024-08-12T11:50:06 - fix castling encoding
