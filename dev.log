@@ -652,3 +652,4 @@
 2024-08-12T20:42:49 - fix node expansion
 2024-08-12T23:08:57 - fix checkpoint loading
 2024-08-12T10:14:25 - fix timeout handling
+2024-08-13T12:18:51 - fix rating calculation
