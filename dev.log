@@ -656,3 +656,4 @@
 2024-08-13T19:57:49 - fix repetition handling
 2024-08-13T17:12:39 - add opening book support
 2024-08-13T14:33:55 - refactor utils
+2024-08-14T11:11:46 - fix en passant encoding
