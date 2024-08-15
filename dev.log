@@ -659,3 +659,4 @@
 2024-08-14T11:11:46 - fix en passant encoding
 2024-08-14T12:27:24 - add temperature scheduling
 2024-08-14T20:10:53 - fix checkpoint loading
+2024-08-15T10:38:39 - optimize memory usage
