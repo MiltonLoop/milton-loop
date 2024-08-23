@@ -684,3 +684,4 @@
 2024-08-22T11:31:54 - update dependencies
 2024-08-23T21:11:16 - fix batch normalization
 2024-08-23T16:35:34 - update docs
+2024-08-23T23:35:20 - fix timeout handling
