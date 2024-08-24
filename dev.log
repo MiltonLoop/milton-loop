@@ -687,3 +687,4 @@
 2024-08-23T23:35:20 - fix timeout handling
 2024-08-23T15:45:13 - clean up code
 2024-08-23T10:16:51 - fix learning rate schedule
+2024-08-24T15:05:07 - improve evaluation function
