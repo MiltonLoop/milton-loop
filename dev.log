@@ -727,3 +727,4 @@
 2024-09-03T20:32:24 - improve inference speed
 2024-09-03T11:33:07 - update docs
 2024-09-04T11:56:29 - fix edge case in search
+2024-09-04T18:05:35 - refactor model architecture
