@@ -731,3 +731,4 @@
 2024-09-04T21:10:43 - fix gradient clipping
 2024-09-05T13:36:20 - improve self-play speed
 2024-09-05T09:02:58 - update MCTS exploration
+2024-09-05T22:07:42 - update training loop
