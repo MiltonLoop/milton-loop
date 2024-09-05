@@ -730,3 +730,4 @@
 2024-09-04T18:05:35 - refactor model architecture
 2024-09-04T21:10:43 - fix gradient clipping
 2024-09-05T13:36:20 - improve self-play speed
+2024-09-05T09:02:58 - update MCTS exploration
