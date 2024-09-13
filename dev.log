@@ -755,3 +755,4 @@
 2024-09-12T15:12:01 - add logging
 2024-09-12T19:37:58 - fix edge case in search
 2024-09-13T23:12:22 - bug fixes
+2024-09-13T17:59:21 - optimize board encoding
