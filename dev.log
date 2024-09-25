@@ -796,3 +796,4 @@
 2024-09-24T19:47:35 - improve evaluation function
 2024-09-25T13:44:24 - fix lichess integration
 2024-09-25T19:59:04 - add opening book support
+2024-09-25T19:58:32 - add checkpoint saving
