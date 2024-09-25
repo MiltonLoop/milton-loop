@@ -797,3 +797,4 @@
 2024-09-25T13:44:24 - fix lichess integration
 2024-09-25T19:59:04 - add opening book support
 2024-09-25T19:58:32 - add checkpoint saving
+2024-09-25T23:07:40 - refactor game loop
