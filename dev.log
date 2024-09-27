@@ -801,3 +801,4 @@
 2024-09-25T22:57:39 - fix rating calculation
 2024-09-26T14:31:50 - add temperature scheduling
 2024-09-27T13:46:19 - update arena scoring
+2024-09-27T09:27:26 - fix encoding bug
