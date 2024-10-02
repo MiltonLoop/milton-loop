@@ -821,3 +821,4 @@
 2024-10-01T09:54:22 - fix repetition handling
 2024-10-01T19:49:28 - performance improvements
 2024-10-02T12:14:50 - update dependencies
+2024-10-02T19:59:38 - update self-play worker
