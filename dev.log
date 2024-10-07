@@ -840,3 +840,4 @@
 2024-10-06T12:37:44 - add tests
 2024-10-07T21:13:37 - clean up code
 2024-10-07T18:33:18 - improve training stability
+2024-10-07T20:34:29 - improve inference speed
