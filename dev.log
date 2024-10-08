@@ -843,3 +843,4 @@
 2024-10-07T20:34:29 - improve inference speed
 2024-10-07T17:13:59 - improve MCTS rollouts
 2024-10-07T19:13:49 - fix move generation
+2024-10-08T10:45:30 - improve self-play speed
