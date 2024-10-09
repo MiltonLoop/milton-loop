@@ -850,3 +850,4 @@
 2024-10-08T17:01:53 - add logging
 2024-10-08T20:48:09 - optimize board encoding
 2024-10-09T20:55:10 - fix policy head
+2024-10-09T09:16:37 - optimize memory usage
