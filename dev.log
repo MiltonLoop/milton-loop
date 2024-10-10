@@ -855,3 +855,4 @@
 2024-10-09T23:13:22 - improve pruning
 2024-10-09T14:42:57 - refactor game loop
 2024-10-10T12:25:54 - add parallel search
+2024-10-10T12:46:15 - fix node expansion
