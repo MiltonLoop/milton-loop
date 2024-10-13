@@ -861,3 +861,4 @@
 2024-10-12T18:55:10 - update API calls
 2024-10-13T21:53:33 - update API calls
 2024-10-13T19:31:41 - fix tensor shapes
+2024-10-13T17:42:32 - fix node expansion
