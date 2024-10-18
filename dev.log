@@ -883,3 +883,4 @@
 2024-10-17T09:08:15 - add data augmentation
 2024-10-17T16:42:27 - improve self-play speed
 2024-10-18T11:33:00 - refactor encoding module
+2024-10-18T17:41:08 - fix repetition handling
