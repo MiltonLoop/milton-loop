@@ -887,3 +887,4 @@
 2024-10-18T13:53:38 - fix encoding bug
 2024-10-19T14:30:06 - add model comparison
 2024-10-19T16:46:21 - fix batch normalization
+2024-10-19T22:32:59 - fix gradient clipping
