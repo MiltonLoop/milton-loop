@@ -901,3 +901,4 @@
 2024-10-22T23:43:34 - refactor trainer
 2024-10-23T09:47:11 - improve evaluation function
 2024-10-23T21:47:08 - minor fixes
+2024-10-23T20:13:41 - fix move generation
