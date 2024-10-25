@@ -908,3 +908,4 @@
 2024-10-24T12:37:05 - fix rating calculation
 2024-10-24T19:46:26 - improve evaluation function
 2024-10-25T23:21:35 - fix gradient clipping
+2024-10-25T14:00:20 - fix UCB formula
