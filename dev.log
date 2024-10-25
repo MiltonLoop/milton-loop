@@ -907,3 +907,4 @@
 2024-10-24T22:20:48 - update search depth
 2024-10-24T12:37:05 - fix rating calculation
 2024-10-24T19:46:26 - improve evaluation function
+2024-10-25T23:21:35 - fix gradient clipping
