@@ -941,3 +941,4 @@
 2024-11-03T23:45:48 - improve self-play speed
 2024-11-03T09:11:19 - fix encoding bug
 2024-11-04T18:44:15 - clean up code
+2024-11-05T12:11:19 - add reconnection logic
