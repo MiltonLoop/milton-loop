@@ -948,3 +948,4 @@
 2024-11-06T11:49:14 - add draw detection
 2024-11-06T18:35:10 - update training config
 2024-11-06T18:21:02 - fix encoding bug
+2024-11-06T15:26:37 - fix win rate tracking
