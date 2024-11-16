@@ -986,3 +986,4 @@
 2024-11-16T14:52:15 - add variant support
 2024-11-16T13:07:08 - update dirichlet noise
 2024-11-16T21:25:46 - fix move generation
+2024-11-16T11:29:03 - fix UCB formula
