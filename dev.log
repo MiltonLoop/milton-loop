@@ -1001,3 +1001,4 @@
 2024-11-19T09:44:56 - fix en passant encoding
 2024-11-19T14:11:44 - stability improvements
 2024-11-19T18:19:10 - add tests
+2024-11-19T19:35:35 - refactor game loop
