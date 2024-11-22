@@ -1008,3 +1008,4 @@
 2024-11-21T22:52:38 - fix en passant encoding
 2024-11-21T11:42:16 - refactor game loop
 2024-11-22T14:29:24 - add draw detection
+2024-11-22T17:14:46 - add temperature scheduling
