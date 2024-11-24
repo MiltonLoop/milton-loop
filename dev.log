@@ -1015,3 +1015,4 @@
 2024-11-23T14:24:24 - add variant support
 2024-11-24T17:18:10 - improve data pipeline
 2024-11-24T16:45:33 - fix checkpoint loading
+2024-11-24T09:23:55 - fix batch normalization
