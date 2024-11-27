@@ -1017,3 +1017,4 @@
 2024-11-24T16:45:33 - fix checkpoint loading
 2024-11-24T09:23:55 - fix batch normalization
 2024-11-25T17:10:20 - add temperature scheduling
+2024-11-27T23:48:02 - add opening book support
