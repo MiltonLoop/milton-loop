@@ -1024,3 +1024,4 @@
 2024-11-29T09:30:23 - fix win rate tracking
 2024-11-29T23:41:43 - update self-play worker
 2024-11-29T18:49:22 - fix repetition handling
+2024-11-29T18:32:02 - improve challenge acceptance
