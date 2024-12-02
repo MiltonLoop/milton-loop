@@ -1032,3 +1032,4 @@
 2024-12-01T16:21:15 - update mcts parameters
 2024-12-02T19:08:41 - update move formatting
 2024-12-02T21:09:07 - improve training stability
+2024-12-02T10:19:59 - refactor model architecture
