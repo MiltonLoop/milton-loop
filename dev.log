@@ -1039,3 +1039,4 @@
 2024-12-03T21:54:34 - fix timeout handling
 2024-12-03T16:27:29 - update arena scoring
 2024-12-03T21:41:16 - update MCTS exploration
+2024-12-04T17:31:42 - performance improvements
