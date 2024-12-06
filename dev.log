@@ -1044,3 +1044,4 @@
 2024-12-06T14:23:20 - fix batch normalization
 2024-12-06T19:46:49 - update training loop
 2024-12-06T11:47:50 - add draw detection
+2024-12-06T19:40:42 - improve neural network
