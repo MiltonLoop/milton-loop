@@ -1041,3 +1041,4 @@
 2024-12-03T21:41:16 - update MCTS exploration
 2024-12-04T17:31:42 - performance improvements
 2024-12-04T13:34:58 - fix batch normalization
+2024-12-06T14:23:20 - fix batch normalization
