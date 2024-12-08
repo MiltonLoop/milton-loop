@@ -1051,3 +1051,4 @@
 2024-12-07T14:26:30 - update training loop
 2024-12-08T18:52:42 - refactor encoding module
 2024-12-08T18:51:37 - fix edge case in search
+2024-12-08T12:21:48 - add parallel search
