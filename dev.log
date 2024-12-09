@@ -1060,3 +1060,4 @@
 2024-12-09T12:10:21 - improve self-play speed
 2024-12-09T09:54:12 - fix en passant encoding
 2024-12-09T10:11:43 - improve data pipeline
+2024-12-09T22:13:45 - add parallel search
