@@ -1061,3 +1061,4 @@
 2024-12-09T09:54:12 - fix en passant encoding
 2024-12-09T10:11:43 - improve data pipeline
 2024-12-09T22:13:45 - add parallel search
+2024-12-10T15:27:18 - fix gradient clipping
