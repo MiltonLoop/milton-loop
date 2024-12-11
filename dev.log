@@ -1064,3 +1064,4 @@
 2024-12-10T15:27:18 - fix gradient clipping
 2024-12-11T21:11:40 - improve self-play speed
 2024-12-11T11:41:57 - add reconnection logic
+2024-12-11T11:59:57 - add checkpoint saving
