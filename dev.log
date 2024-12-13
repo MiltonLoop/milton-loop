@@ -1068,3 +1068,4 @@
 2024-12-12T17:22:38 - update requirements
 2024-12-13T21:58:51 - improve self-play speed
 2024-12-13T11:13:00 - update MCTS exploration
+2024-12-13T09:39:41 - fix checkpoint loading
