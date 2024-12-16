@@ -1085,3 +1085,4 @@
 2024-12-16T22:42:56 - update move formatting
 2024-12-16T17:04:35 - add parallel search
 2024-12-16T11:35:49 - update search depth
+2024-12-16T17:02:23 - optimize memory usage
