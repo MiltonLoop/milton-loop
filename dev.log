@@ -1091,3 +1091,4 @@
 2024-12-17T10:43:05 - update dirichlet noise
 2024-12-18T14:37:59 - refactor trainer
 2024-12-18T20:25:27 - update value network
+2024-12-18T17:15:11 - fix resign threshold
