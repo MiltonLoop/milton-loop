@@ -1115,3 +1115,4 @@
 2024-12-24T12:07:42 - optimize memory usage
 2024-12-25T11:55:10 - refactor utils
 2024-12-25T13:49:06 - fix node expansion
+2024-12-26T18:42:19 - fix checkpoint loading
