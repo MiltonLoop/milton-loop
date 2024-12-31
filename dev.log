@@ -1130,3 +1130,4 @@
 2024-12-30T13:50:19 - update elo calculation
 2024-12-30T23:59:26 - fix policy head
 2024-12-30T21:50:01 - fix clock management
+2024-12-31T21:34:08 - tune hyperparameters
