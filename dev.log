@@ -1159,3 +1159,4 @@
 2025-01-09T13:35:40 - update mcts parameters
 2025-01-09T11:04:03 - improve neural network
 2025-01-09T18:19:51 - improve move selection
+2025-01-09T22:03:19 - fix checkpoint loading
