@@ -1165,3 +1165,4 @@
 2025-01-11T13:08:37 - add game analysis
 2025-01-11T20:20:11 - improve move selection
 2025-01-11T10:07:51 - fix move generation
+2025-01-13T23:52:09 - improve evaluation function
