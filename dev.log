@@ -1170,3 +1170,4 @@
 2025-01-13T18:58:55 - improve MCTS rollouts
 2025-01-13T13:12:23 - performance improvements
 2025-01-13T12:12:12 - fix win rate tracking
+2025-01-13T18:06:32 - fix rating calculation
