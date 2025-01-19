@@ -1194,3 +1194,4 @@
 2025-01-19T17:56:09 - update training config
 2025-01-19T09:53:41 - fix tensor shapes
 2025-01-19T15:42:53 - add logging
+2025-01-19T11:09:41 - fix castling encoding
