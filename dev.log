@@ -1199,3 +1199,4 @@
 2025-01-19T15:21:26 - add game analysis
 2025-01-20T16:45:01 - optimize memory usage
 2025-01-20T12:17:48 - update elo calculation
+2025-01-20T10:32:48 - refactor trainer
