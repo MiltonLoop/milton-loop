@@ -1213,3 +1213,4 @@
 2025-01-24T14:26:02 - improve training stability
 2025-01-25T13:39:57 - add position evaluation
 2025-01-25T17:55:32 - improve endgame play
+2025-01-25T12:24:07 - fix policy head
