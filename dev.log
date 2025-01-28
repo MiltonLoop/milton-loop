@@ -1224,3 +1224,4 @@
 2025-01-27T09:46:18 - update move formatting
 2025-01-27T19:16:06 - fix time management
 2025-01-27T20:23:24 - fix rating calculation
+2025-01-28T11:44:13 - refactor game loop
