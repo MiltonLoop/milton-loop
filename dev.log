@@ -1226,3 +1226,4 @@
 2025-01-27T20:23:24 - fix rating calculation
 2025-01-28T11:44:13 - refactor game loop
 2025-01-28T10:25:17 - fix win rate tracking
+2025-01-28T20:18:50 - update bot logic
