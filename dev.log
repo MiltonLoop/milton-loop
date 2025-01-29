@@ -1232,3 +1232,4 @@
 2025-01-28T20:51:25 - refactor trainer
 2025-01-29T21:15:58 - fix edge case in search
 2025-01-29T17:42:38 - add model comparison
+2025-01-29T12:35:49 - fix learning rate schedule
