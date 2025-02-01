@@ -1247,3 +1247,4 @@
 2025-02-01T14:30:23 - bug fixes
 2025-02-01T11:16:02 - add draw detection
 2025-02-01T18:33:04 - refactor trainer
+2025-02-01T18:35:16 - fix gradient clipping
