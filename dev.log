@@ -1281,3 +1281,4 @@
 2025-02-08T09:16:09 - fix clock management
 2025-02-08T09:27:47 - fix en passant encoding
 2025-02-08T10:15:25 - add logging
+2025-02-08T15:15:29 - tune hyperparameters
