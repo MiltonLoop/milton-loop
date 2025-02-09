@@ -1282,3 +1282,4 @@
 2025-02-08T09:27:47 - fix en passant encoding
 2025-02-08T10:15:25 - add logging
 2025-02-08T15:15:29 - tune hyperparameters
+2025-02-09T09:56:03 - fix gradient clipping
