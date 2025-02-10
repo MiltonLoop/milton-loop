@@ -1290,3 +1290,4 @@
 2025-02-10T12:06:04 - fix node expansion
 2025-02-10T21:27:47 - fix move generation
 2025-02-10T20:12:42 - fix batch normalization
+2025-02-10T12:29:42 - add arena evaluation
