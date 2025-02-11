@@ -1292,3 +1292,4 @@
 2025-02-10T20:12:42 - fix batch normalization
 2025-02-10T12:29:42 - add arena evaluation
 2025-02-11T15:41:53 - add parallel search
+2025-02-11T22:29:38 - fix tests
