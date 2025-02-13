@@ -1300,3 +1300,4 @@
 2025-02-12T15:51:13 - code cleanup
 2025-02-13T11:29:20 - tune hyperparameters
 2025-02-13T23:56:49 - fix en passant encoding
+2025-02-13T17:31:27 - add temperature scheduling
