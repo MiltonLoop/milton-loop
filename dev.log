@@ -1306,3 +1306,4 @@
 2025-02-13T21:30:16 - fix encoding bug
 2025-02-14T11:00:37 - fix lichess integration
 2025-02-14T20:48:39 - fix UCB formula
+2025-02-14T17:22:49 - add position evaluation
