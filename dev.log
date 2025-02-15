@@ -1307,3 +1307,4 @@
 2025-02-14T11:00:37 - fix lichess integration
 2025-02-14T20:48:39 - fix UCB formula
 2025-02-14T17:22:49 - add position evaluation
+2025-02-15T11:31:50 - update elo calculation
