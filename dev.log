@@ -1316,3 +1316,4 @@
 2025-02-18T11:25:14 - fix tensor shapes
 2025-02-18T20:35:45 - improve neural network
 2025-02-18T10:14:53 - fix resign threshold
+2025-02-20T11:10:07 - fix batch normalization
