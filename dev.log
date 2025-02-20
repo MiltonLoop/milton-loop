@@ -1317,3 +1317,4 @@
 2025-02-18T20:35:45 - improve neural network
 2025-02-18T10:14:53 - fix resign threshold
 2025-02-20T11:10:07 - fix batch normalization
+2025-02-20T16:55:42 - fix edge case in search
