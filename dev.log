@@ -1337,3 +1337,4 @@
 2025-02-24T14:38:57 - update promotion logic
 2025-02-24T21:11:34 - improve evaluation function
 2025-02-24T18:05:36 - update mcts parameters
+2025-02-24T11:07:26 - fix encoding bug
