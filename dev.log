@@ -1340,3 +1340,4 @@
 2025-02-24T11:07:26 - fix encoding bug
 2025-02-25T15:40:11 - fix move generation
 2025-02-25T20:03:36 - add position evaluation
+2025-02-25T14:55:37 - update promotion logic
