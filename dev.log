@@ -1339,3 +1339,4 @@
 2025-02-24T18:05:36 - update mcts parameters
 2025-02-24T11:07:26 - fix encoding bug
 2025-02-25T15:40:11 - fix move generation
+2025-02-25T20:03:36 - add position evaluation
