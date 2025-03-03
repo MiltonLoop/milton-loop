@@ -1361,3 +1361,4 @@
 2025-03-03T11:28:34 - add position evaluation
 2025-03-03T12:01:54 - add draw detection
 2025-03-03T21:56:14 - improve neural network
+2025-03-03T20:54:31 - fix learning rate schedule
