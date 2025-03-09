@@ -1381,3 +1381,4 @@
 2025-03-08T19:42:11 - refactor game loop
 2025-03-09T21:10:47 - update self-play worker
 2025-03-09T22:16:00 - improve endgame play
+2025-03-09T16:19:54 - fix time management
