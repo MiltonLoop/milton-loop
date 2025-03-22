@@ -1426,3 +1426,4 @@
 2025-03-21T11:38:30 - improve evaluation function
 2025-03-22T09:42:46 - code cleanup
 2025-03-22T21:40:42 - fix learning rate schedule
+2025-03-22T09:21:27 - update training config
