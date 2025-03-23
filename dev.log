@@ -1429,3 +1429,4 @@
 2025-03-22T09:21:27 - update training config
 2025-03-22T16:48:21 - fix time management
 2025-03-22T21:12:11 - fix move generation
+2025-03-23T11:32:53 - update self-play worker
