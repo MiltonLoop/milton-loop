@@ -1436,3 +1436,4 @@
 2025-03-24T20:06:55 - fix UCB formula
 2025-03-24T22:40:43 - fix node expansion
 2025-03-24T22:16:07 - refactor encoding module
+2025-03-25T16:29:10 - update promotion logic
