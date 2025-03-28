@@ -1444,3 +1444,4 @@
 2025-03-27T15:26:28 - add draw detection
 2025-03-27T21:08:10 - improve pruning
 2025-03-28T10:26:38 - update self-play worker
+2025-03-28T10:30:10 - fix en passant encoding
