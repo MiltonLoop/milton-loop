@@ -1457,3 +1457,4 @@
 2025-03-30T15:21:55 - add temperature scheduling
 2025-03-30T13:33:53 - improve evaluation function
 2025-03-31T11:11:51 - refactor encoding module
+2025-03-31T12:37:20 - fix resign threshold
