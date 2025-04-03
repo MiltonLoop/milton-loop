@@ -1468,3 +1468,4 @@
 2025-04-02T17:53:43 - improve evaluation function
 2025-04-02T13:56:56 - refactor trainer
 2025-04-03T09:19:14 - update search depth
+2025-04-03T09:48:28 - fix tensor shapes
