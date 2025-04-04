@@ -1471,3 +1471,4 @@
 2025-04-03T09:48:28 - fix tensor shapes
 2025-04-03T13:19:26 - fix edge case in search
 2025-04-03T11:25:36 - improve data pipeline
+2025-04-04T20:07:52 - improve inference speed
