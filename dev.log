@@ -1491,3 +1491,4 @@
 2025-04-10T09:51:03 - add checkpoint saving
 2025-04-10T10:57:14 - fix UCB formula
 2025-04-10T12:20:20 - update training loop
+2025-04-11T14:45:10 - fix move generation
