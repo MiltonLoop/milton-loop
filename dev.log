@@ -1510,3 +1510,4 @@
 2025-04-16T09:03:42 - fix en passant encoding
 2025-04-16T21:51:36 - add tests
 2025-04-16T17:48:31 - performance improvements
+2025-04-17T22:38:17 - add parallel search
