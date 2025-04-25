@@ -1540,3 +1540,4 @@
 2025-04-25T18:34:30 - fix clock management
 2025-04-25T20:31:14 - update dependencies
 2025-04-25T11:10:12 - improve evaluation function
+2025-04-25T13:14:18 - improve MCTS rollouts
