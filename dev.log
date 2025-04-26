@@ -1542,3 +1542,4 @@
 2025-04-25T11:10:12 - improve evaluation function
 2025-04-25T13:14:18 - improve MCTS rollouts
 2025-04-26T23:43:12 - clean up code
+2025-04-26T09:56:08 - fix time management
