@@ -1546,3 +1546,4 @@
 2025-04-26T12:22:34 - fix castling encoding
 2025-04-26T17:38:44 - add reconnection logic
 2025-04-27T22:09:38 - fix gradient clipping
+2025-04-27T19:23:59 - fix rating calculation
