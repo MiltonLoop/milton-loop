@@ -1545,3 +1545,4 @@
 2025-04-26T09:56:08 - fix time management
 2025-04-26T12:22:34 - fix castling encoding
 2025-04-26T17:38:44 - add reconnection logic
+2025-04-27T22:09:38 - fix gradient clipping
