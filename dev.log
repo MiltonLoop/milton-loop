@@ -1567,3 +1567,4 @@
 2025-05-01T09:53:57 - add position evaluation
 2025-05-01T12:01:39 - update value network
 2025-05-01T14:41:02 - update mcts parameters
+2025-05-01T12:38:34 - refactor encoding module
