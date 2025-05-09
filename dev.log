@@ -1590,3 +1590,4 @@
 2025-05-09T18:30:18 - update training loop
 2025-05-09T17:02:59 - stability improvements
 2025-05-09T12:01:04 - update training config
+2025-05-09T19:31:32 - fix UCB formula
