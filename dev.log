@@ -1592,3 +1592,4 @@
 2025-05-09T12:01:04 - update training config
 2025-05-09T19:31:32 - fix UCB formula
 2025-05-11T09:09:09 - improve endgame play
+2025-05-11T12:04:27 - refactor encoding module
