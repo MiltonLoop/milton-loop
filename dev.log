@@ -1597,3 +1597,4 @@
 2025-05-11T20:24:54 - improve pruning
 2025-05-12T15:10:30 - update training config
 2025-05-12T20:58:04 - fix checkpoint loading
+2025-05-12T21:04:59 - update dirichlet noise
