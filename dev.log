@@ -1600,3 +1600,4 @@
 2025-05-12T21:04:59 - update dirichlet noise
 2025-05-12T12:52:41 - tune hyperparameters
 2025-05-12T13:07:04 - add draw detection
+2025-05-12T11:05:29 - fix UCB formula
