@@ -1602,3 +1602,4 @@
 2025-05-12T13:07:04 - add draw detection
 2025-05-12T11:05:29 - fix UCB formula
 2025-05-12T23:38:34 - tune hyperparameters
+2025-05-13T09:10:51 - update MCTS exploration
