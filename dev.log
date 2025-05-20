@@ -1622,3 +1622,4 @@
 2025-05-19T23:07:20 - improve self-play speed
 2025-05-19T13:45:49 - update requirements
 2025-05-19T13:41:20 - fix clock management
+2025-05-20T14:58:17 - add data augmentation
