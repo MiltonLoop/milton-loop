@@ -1624,3 +1624,4 @@
 2025-05-19T13:41:20 - fix clock management
 2025-05-20T14:58:17 - add data augmentation
 2025-05-20T11:15:30 - update mcts parameters
+2025-05-20T10:57:27 - fix en passant encoding
