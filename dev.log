@@ -1630,3 +1630,4 @@
 2025-05-21T19:09:01 - update self-play worker
 2025-05-21T21:53:53 - fix tensor shapes
 2025-05-21T11:41:21 - fix rating calculation
+2025-05-21T23:43:25 - add opening book support
