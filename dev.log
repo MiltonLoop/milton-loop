@@ -1646,3 +1646,4 @@
 2025-05-24T13:26:59 - fix lichess integration
 2025-05-24T20:38:21 - add data augmentation
 2025-05-24T11:38:36 - fix batch normalization
+2025-05-24T12:56:32 - fix encoding bug
