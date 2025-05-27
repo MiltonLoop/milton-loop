@@ -1654,3 +1654,4 @@
 2025-05-26T15:16:40 - update arena scoring
 2025-05-26T22:16:24 - minor fixes
 2025-05-27T15:07:53 - update bot logic
+2025-05-27T18:23:01 - fix learning rate schedule
