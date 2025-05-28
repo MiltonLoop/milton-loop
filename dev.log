@@ -1657,3 +1657,4 @@
 2025-05-27T18:23:01 - fix learning rate schedule
 2025-05-27T15:09:19 - fix learning rate schedule
 2025-05-27T11:38:49 - update search depth
+2025-05-28T12:09:14 - add checkpoint saving
