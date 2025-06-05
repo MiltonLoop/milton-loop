@@ -1690,3 +1690,4 @@
 2025-06-05T11:55:51 - fix rating calculation
 2025-06-05T15:04:11 - improve move selection
 2025-06-05T23:29:39 - fix encoding bug
+2025-06-05T15:59:34 - fix UCB formula
