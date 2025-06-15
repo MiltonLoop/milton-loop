@@ -1726,3 +1726,4 @@
 2025-06-14T12:36:55 - improve MCTS rollouts
 2025-06-15T14:34:38 - performance improvements
 2025-06-15T19:24:14 - refactor model architecture
+2025-06-15T15:54:52 - fix node expansion
