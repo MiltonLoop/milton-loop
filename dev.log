@@ -1731,3 +1731,4 @@
 2025-06-15T21:43:27 - fix tensor shapes
 2025-06-15T21:56:23 - fix node expansion
 2025-06-16T09:56:56 - fix gradient clipping
+2025-06-16T19:22:20 - update requirements
