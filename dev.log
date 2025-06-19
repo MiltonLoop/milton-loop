@@ -1739,3 +1739,4 @@
 2025-06-18T10:01:44 - improve evaluation function
 2025-06-18T23:23:59 - add checkpoint saving
 2025-06-18T21:19:49 - refactor encoding module
+2025-06-19T15:56:02 - fix en passant encoding
