@@ -1744,3 +1744,4 @@
 2025-06-19T13:27:30 - update elo calculation
 2025-06-20T09:46:47 - update self-play worker
 2025-06-20T09:33:37 - fix en passant encoding
+2025-06-20T13:18:20 - update promotion logic
