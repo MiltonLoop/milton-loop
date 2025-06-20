@@ -1746,3 +1746,4 @@
 2025-06-20T09:33:37 - fix en passant encoding
 2025-06-20T13:18:20 - update promotion logic
 2025-06-20T12:14:14 - fix en passant encoding
+2025-06-20T21:30:46 - update MCTS exploration
