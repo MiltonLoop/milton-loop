@@ -1763,3 +1763,4 @@
 2025-06-25T19:18:14 - update training loop
 2025-06-26T12:14:00 - fix encoding bug
 2025-06-27T11:43:54 - improve evaluation function
+2025-06-27T18:19:13 - fix gradient clipping
