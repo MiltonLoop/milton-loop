@@ -1772,3 +1772,4 @@
 2025-06-29T10:31:19 - fix lichess integration
 2025-06-29T22:02:31 - improve self-play speed
 2025-06-29T12:59:04 - improve data pipeline
+2025-06-30T19:37:12 - fix rating calculation
