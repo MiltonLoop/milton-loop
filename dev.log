@@ -1774,3 +1774,4 @@
 2025-06-29T12:59:04 - improve data pipeline
 2025-06-30T19:37:12 - fix rating calculation
 2025-07-02T21:54:44 - fix en passant encoding
+2025-07-02T17:32:46 - fix resign threshold
