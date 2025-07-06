@@ -1785,3 +1785,4 @@
 2025-07-06T21:51:11 - add model comparison
 2025-07-06T10:42:06 - refactor model architecture
 2025-07-06T18:51:17 - tune hyperparameters
+2025-07-06T22:10:47 - fix en passant encoding
