@@ -1786,3 +1786,4 @@
 2025-07-06T10:42:06 - refactor model architecture
 2025-07-06T18:51:17 - tune hyperparameters
 2025-07-06T22:10:47 - fix en passant encoding
+2025-07-06T17:34:44 - improve data pipeline
