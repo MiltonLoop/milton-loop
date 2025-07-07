@@ -1787,3 +1787,4 @@
 2025-07-06T18:51:17 - tune hyperparameters
 2025-07-06T22:10:47 - fix en passant encoding
 2025-07-06T17:34:44 - improve data pipeline
+2025-07-07T19:39:30 - fix repetition handling
