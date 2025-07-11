@@ -1794,3 +1794,4 @@
 2025-07-08T15:32:30 - fix node expansion
 2025-07-08T18:51:49 - optimize board encoding
 2025-07-08T18:06:57 - fix clock management
+2025-07-11T15:14:49 - update promotion logic
