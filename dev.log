@@ -1801,3 +1801,4 @@
 2025-07-12T13:57:05 - update arena scoring
 2025-07-12T18:30:00 - add game analysis
 2025-07-13T19:05:45 - fix timeout handling
+2025-07-13T18:49:49 - update mcts parameters
