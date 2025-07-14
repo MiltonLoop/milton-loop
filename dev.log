@@ -1807,3 +1807,4 @@
 2025-07-14T09:04:54 - performance improvements
 2025-07-14T20:46:15 - minor fixes
 2025-07-14T21:38:18 - fix castling encoding
+2025-07-14T13:24:34 - fix learning rate schedule
