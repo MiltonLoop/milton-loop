@@ -1809,3 +1809,4 @@
 2025-07-14T21:38:18 - fix castling encoding
 2025-07-14T13:24:34 - fix learning rate schedule
 2025-07-15T17:57:09 - fix move generation
+2025-07-15T11:07:42 - improve evaluation function
