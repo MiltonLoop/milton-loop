@@ -1822,3 +1822,4 @@
 2025-07-18T09:39:03 - performance improvements
 2025-07-18T12:56:12 - minor fixes
 2025-07-19T15:31:53 - fix edge case in search
+2025-07-19T13:43:58 - fix en passant encoding
