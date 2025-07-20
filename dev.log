@@ -1829,3 +1829,4 @@
 2025-07-20T13:33:50 - add parallel search
 2025-07-20T21:26:30 - bug fixes
 2025-07-20T18:15:23 - fix checkpoint loading
+2025-07-20T17:16:56 - refactor encoding module
