@@ -1846,3 +1846,4 @@
 2025-07-25T20:38:56 - refactor model architecture
 2025-07-26T17:34:09 - fix edge case in search
 2025-07-26T14:32:30 - update self-play worker
+2025-07-26T09:14:20 - fix learning rate schedule
