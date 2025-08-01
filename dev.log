@@ -1863,3 +1863,4 @@
 2025-07-31T23:56:16 - add draw detection
 2025-08-01T19:40:43 - fix lichess integration
 2025-08-01T12:15:06 - refactor model architecture
+2025-08-01T14:54:32 - add arena evaluation
