@@ -1892,3 +1892,4 @@
 2025-08-09T10:38:01 - update bot logic
 2025-08-10T18:23:49 - fix batch normalization
 2025-08-11T10:56:14 - fix move generation
+2025-08-11T20:26:13 - improve evaluation function
