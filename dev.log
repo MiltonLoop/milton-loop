@@ -1894,3 +1894,4 @@
 2025-08-11T10:56:14 - fix move generation
 2025-08-11T20:26:13 - improve evaluation function
 2025-08-11T22:50:25 - fix clock management
+2025-08-12T23:21:20 - improve inference speed
