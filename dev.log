@@ -1900,3 +1900,4 @@
 2025-08-12T09:08:54 - optimize memory usage
 2025-08-12T14:23:33 - improve challenge acceptance
 2025-08-12T15:13:43 - fix move generation
+2025-08-14T11:08:31 - fix gradient clipping
