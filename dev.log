@@ -1931,3 +1931,4 @@
 2025-08-22T20:04:20 - fix timeout handling
 2025-08-22T09:45:02 - optimize board encoding
 2025-08-22T16:48:47 - fix castling encoding
+2025-08-22T23:14:58 - fix policy head
