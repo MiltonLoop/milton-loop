@@ -1939,3 +1939,4 @@
 2025-08-23T21:47:35 - stability improvements
 2025-08-24T15:51:52 - tune hyperparameters
 2025-08-24T22:57:31 - improve endgame play
+2025-08-25T16:38:07 - fix gradient clipping
