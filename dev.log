@@ -1945,3 +1945,4 @@
 2025-08-25T21:03:02 - refactor trainer
 2025-08-25T13:44:11 - improve self-play speed
 2025-08-26T14:36:29 - refactor game loop
+2025-08-26T15:05:01 - add logging
