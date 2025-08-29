@@ -1957,3 +1957,4 @@
 2025-08-28T18:00:32 - fix gradient clipping
 2025-08-29T16:42:36 - fix tests
 2025-08-29T23:40:50 - fix castling encoding
+2025-08-29T22:08:39 - fix node expansion
