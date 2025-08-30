@@ -1959,3 +1959,4 @@
 2025-08-29T23:40:50 - fix castling encoding
 2025-08-29T22:08:39 - fix node expansion
 2025-08-30T23:03:54 - update bot logic
+2025-08-30T09:28:26 - update search depth
