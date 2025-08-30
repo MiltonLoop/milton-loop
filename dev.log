@@ -1961,3 +1961,4 @@
 2025-08-30T23:03:54 - update bot logic
 2025-08-30T09:28:26 - update search depth
 2025-08-30T17:28:48 - update move formatting
+2025-08-30T13:42:36 - fix tensor shapes
