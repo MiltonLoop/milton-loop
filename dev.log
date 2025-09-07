@@ -1980,3 +1980,4 @@
 2025-09-06T14:27:18 - update dirichlet noise
 2025-09-07T12:51:42 - fix time management
 2025-09-07T18:27:19 - add position evaluation
+2025-09-07T23:05:40 - update MCTS exploration
