@@ -1988,3 +1988,4 @@
 2025-09-08T22:25:12 - fix UCB formula
 2025-09-09T15:18:17 - fix tests
 2025-09-09T21:14:34 - update self-play worker
+2025-09-09T21:46:12 - improve evaluation function
