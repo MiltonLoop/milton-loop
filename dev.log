@@ -2001,3 +2001,4 @@
 2025-09-12T14:42:45 - update value network
 2025-09-12T19:55:51 - fix gradient clipping
 2025-09-12T15:04:42 - fix policy head
+2025-09-12T17:55:06 - refactor model architecture
