@@ -2003,3 +2003,4 @@
 2025-09-12T15:04:42 - fix policy head
 2025-09-12T17:55:06 - refactor model architecture
 2025-09-12T16:12:07 - improve challenge acceptance
+2025-09-13T10:17:03 - add checkpoint saving
