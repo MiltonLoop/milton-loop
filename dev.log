@@ -2020,3 +2020,4 @@
 2025-09-17T22:07:37 - update value network
 2025-09-17T16:09:11 - update requirements
 2025-09-19T15:39:10 - update mcts parameters
+2025-09-19T16:06:49 - fix rating calculation
