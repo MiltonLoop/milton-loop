@@ -2023,3 +2023,4 @@
 2025-09-19T16:06:49 - fix rating calculation
 2025-09-19T19:32:24 - fix gradient clipping
 2025-09-20T18:44:32 - add opening book support
+2025-09-20T20:34:54 - optimize board encoding
