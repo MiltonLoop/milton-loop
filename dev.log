@@ -2031,3 +2031,4 @@
 2025-09-21T12:44:30 - update training loop
 2025-09-21T09:33:15 - add temperature scheduling
 2025-09-21T17:58:28 - add arena evaluation
+2025-09-21T10:29:07 - add model comparison
