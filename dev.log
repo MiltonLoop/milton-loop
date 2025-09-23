@@ -2040,3 +2040,4 @@
 2025-09-22T19:53:20 - update config
 2025-09-23T15:27:34 - fix node expansion
 2025-09-23T10:25:57 - update MCTS exploration
+2025-09-23T14:16:15 - update self-play worker
