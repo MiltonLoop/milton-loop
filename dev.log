@@ -2060,3 +2060,4 @@
 2025-09-29T19:24:12 - update requirements
 2025-09-29T23:15:20 - fix learning rate schedule
 2025-09-29T14:16:37 - add logging
+2025-09-29T10:17:05 - fix resign threshold
