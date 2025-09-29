@@ -2056,3 +2056,4 @@
 2025-09-27T16:28:12 - fix en passant encoding
 2025-09-27T16:00:19 - add logging
 2025-09-27T16:40:41 - add variant support
+2025-09-29T23:02:42 - improve data pipeline
