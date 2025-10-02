@@ -2072,3 +2072,4 @@
 2025-10-01T16:04:57 - add opening book support
 2025-10-02T20:23:08 - improve MCTS rollouts
 2025-10-02T17:21:43 - improve evaluation function
+2025-10-02T20:33:59 - add draw detection
