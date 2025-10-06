@@ -2090,3 +2090,4 @@
 2025-10-05T11:52:00 - add checkpoint saving
 2025-10-06T20:22:50 - improve pruning
 2025-10-06T11:31:05 - add reconnection logic
+2025-10-06T22:57:15 - optimize memory usage
