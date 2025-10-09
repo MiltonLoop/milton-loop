@@ -2100,3 +2100,4 @@
 2025-10-08T20:22:07 - update docs
 2025-10-09T15:13:02 - fix encoding bug
 2025-10-09T17:35:52 - update training loop
+2025-10-09T14:59:40 - improve evaluation function
