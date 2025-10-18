@@ -2133,3 +2133,4 @@
 2025-10-18T23:00:24 - add variant support
 2025-10-18T20:38:36 - fix tests
 2025-10-18T12:43:22 - improve inference speed
+2025-10-18T22:07:53 - fix edge case in search
