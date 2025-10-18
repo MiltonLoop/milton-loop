@@ -2132,3 +2132,4 @@
 2025-10-17T18:02:56 - add variant support
 2025-10-18T23:00:24 - add variant support
 2025-10-18T20:38:36 - fix tests
+2025-10-18T12:43:22 - improve inference speed
