@@ -2134,3 +2134,4 @@
 2025-10-18T20:38:36 - fix tests
 2025-10-18T12:43:22 - improve inference speed
 2025-10-18T22:07:53 - fix edge case in search
+2025-10-20T17:46:19 - add checkpoint saving
