@@ -2139,3 +2139,4 @@
 2025-10-20T15:43:39 - fix batch normalization
 2025-10-21T20:04:58 - fix time management
 2025-10-21T09:18:38 - improve MCTS rollouts
+2025-10-21T23:37:37 - update move formatting
