@@ -2141,3 +2141,4 @@
 2025-10-21T09:18:38 - improve MCTS rollouts
 2025-10-21T23:37:37 - update move formatting
 2025-10-22T21:27:46 - fix en passant encoding
+2025-10-22T23:15:23 - fix en passant encoding
