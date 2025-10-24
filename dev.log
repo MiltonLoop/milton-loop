@@ -2147,3 +2147,4 @@
 2025-10-23T18:43:59 - update API calls
 2025-10-24T09:30:48 - fix batch normalization
 2025-10-24T18:14:56 - update promotion logic
+2025-10-24T22:26:36 - fix resign threshold
