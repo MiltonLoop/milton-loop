@@ -2156,3 +2156,4 @@
 2025-10-25T11:23:09 - fix node expansion
 2025-10-25T11:22:22 - code cleanup
 2025-10-25T13:47:34 - add variant support
+2025-10-25T16:52:29 - fix gradient clipping
