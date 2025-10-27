@@ -2163,3 +2163,4 @@
 2025-10-26T13:57:39 - update training loop
 2025-10-26T14:03:11 - bug fixes
 2025-10-26T14:45:02 - stability improvements
+2025-10-27T11:23:28 - optimize board encoding
