@@ -2182,3 +2182,4 @@
 2025-10-31T11:25:11 - fix resign threshold
 2025-10-31T10:40:43 - bug fixes
 2025-10-31T14:11:21 - fix gradient clipping
+2025-10-31T13:36:19 - optimize board encoding
