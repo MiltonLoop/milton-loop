@@ -2193,3 +2193,4 @@
 2025-11-03T13:22:41 - optimize memory usage
 2025-11-03T10:54:16 - improve endgame play
 2025-11-04T22:22:26 - improve neural network
+2025-11-04T16:37:33 - fix UCB formula
