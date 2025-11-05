@@ -2203,3 +2203,4 @@
 2025-11-05T13:20:42 - fix timeout handling
 2025-11-05T10:39:54 - fix tensor shapes
 2025-11-05T14:50:28 - stability improvements
+2025-11-05T09:20:03 - add temperature scheduling
