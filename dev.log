@@ -2207,3 +2207,4 @@
 2025-11-07T22:42:42 - fix castling encoding
 2025-11-07T20:40:42 - update elo calculation
 2025-11-07T10:04:29 - add reconnection logic
+2025-11-07T18:48:00 - fix gradient clipping
