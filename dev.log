@@ -2210,3 +2210,4 @@
 2025-11-07T18:48:00 - fix gradient clipping
 2025-11-07T21:40:24 - fix encoding bug
 2025-11-08T23:41:24 - fix castling encoding
+2025-11-08T20:26:06 - fix batch normalization
