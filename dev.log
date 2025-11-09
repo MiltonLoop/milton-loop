@@ -2212,3 +2212,4 @@
 2025-11-08T23:41:24 - fix castling encoding
 2025-11-08T20:26:06 - fix batch normalization
 2025-11-09T17:30:53 - update training loop
+2025-11-09T17:10:13 - fix edge case in search
