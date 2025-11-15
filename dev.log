@@ -2232,3 +2232,4 @@
 2025-11-12T21:10:56 - improve MCTS rollouts
 2025-11-14T23:32:40 - add parallel search
 2025-11-15T20:47:07 - update search depth
+2025-11-15T22:21:15 - fix resign threshold
