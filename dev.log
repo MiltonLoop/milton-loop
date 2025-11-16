@@ -2236,3 +2236,4 @@
 2025-11-16T19:47:10 - optimize board encoding
 2025-11-16T18:04:33 - update search depth
 2025-11-16T09:26:38 - update self-play worker
+2025-11-16T12:38:50 - fix castling encoding
