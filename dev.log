@@ -2259,3 +2259,4 @@
 2025-11-21T09:17:26 - performance improvements
 2025-11-21T17:13:55 - improve endgame play
 2025-11-22T22:24:28 - add reconnection logic
+2025-11-22T10:43:43 - refactor game loop
