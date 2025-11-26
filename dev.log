@@ -2271,3 +2271,4 @@
 2025-11-25T21:30:05 - add reconnection logic
 2025-11-26T12:28:02 - fix encoding bug
 2025-11-26T12:43:29 - improve pruning
+2025-11-26T11:45:52 - improve challenge acceptance
