@@ -2274,3 +2274,4 @@
 2025-11-26T11:45:52 - improve challenge acceptance
 2025-11-26T09:49:19 - add variant support
 2025-11-26T14:32:53 - update arena scoring
+2025-11-26T19:44:13 - fix encoding bug
