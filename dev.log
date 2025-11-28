@@ -2283,3 +2283,4 @@
 2025-11-27T19:01:51 - fix rating calculation
 2025-11-28T20:29:11 - fix en passant encoding
 2025-11-28T10:35:02 - fix tensor shapes
+2025-11-28T23:46:10 - add game analysis
