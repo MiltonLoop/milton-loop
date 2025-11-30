@@ -2290,3 +2290,4 @@
 2025-11-30T14:38:41 - optimize board encoding
 2025-11-30T09:34:29 - add variant support
 2025-11-30T13:11:31 - fix tensor shapes
+2025-11-30T11:35:45 - update arena scoring
