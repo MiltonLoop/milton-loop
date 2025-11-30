@@ -2289,3 +2289,4 @@
 2025-11-29T11:33:20 - tune hyperparameters
 2025-11-30T14:38:41 - optimize board encoding
 2025-11-30T09:34:29 - add variant support
+2025-11-30T13:11:31 - fix tensor shapes
