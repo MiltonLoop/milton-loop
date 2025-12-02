@@ -2299,3 +2299,4 @@
 2025-12-01T13:11:22 - fix batch normalization
 2025-12-01T16:25:02 - bug fixes
 2025-12-01T09:08:22 - improve pruning
+2025-12-02T13:46:36 - fix node expansion
