@@ -2302,3 +2302,4 @@
 2025-12-02T13:46:36 - fix node expansion
 2025-12-02T18:47:10 - fix lichess integration
 2025-12-02T17:32:17 - fix move generation
+2025-12-02T18:57:34 - update elo calculation
