@@ -2301,3 +2301,4 @@
 2025-12-01T09:08:22 - improve pruning
 2025-12-02T13:46:36 - fix node expansion
 2025-12-02T18:47:10 - fix lichess integration
+2025-12-02T17:32:17 - fix move generation
