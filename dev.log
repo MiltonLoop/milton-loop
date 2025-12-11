@@ -2322,3 +2322,4 @@
 2025-12-10T22:40:21 - add position evaluation
 2025-12-11T09:45:42 - fix time management
 2025-12-11T18:47:02 - update training config
+2025-12-11T09:48:13 - update MCTS exploration
