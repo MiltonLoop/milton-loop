@@ -2327,3 +2327,4 @@
 2025-12-12T22:50:01 - fix move generation
 2025-12-12T12:57:19 - update requirements
 2025-12-12T15:48:33 - update training loop
+2025-12-12T20:31:23 - fix tensor shapes
