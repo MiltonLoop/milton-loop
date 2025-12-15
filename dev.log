@@ -2339,3 +2339,4 @@
 2025-12-15T16:38:01 - update mcts parameters
 2025-12-15T12:45:12 - fix win rate tracking
 2025-12-15T23:00:31 - performance improvements
+2025-12-15T21:15:23 - improve neural network
