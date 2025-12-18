@@ -2346,3 +2346,4 @@
 2025-12-17T23:38:02 - fix win rate tracking
 2025-12-17T14:10:56 - refactor game loop
 2025-12-17T15:45:45 - fix en passant encoding
+2025-12-18T16:57:02 - fix en passant encoding
