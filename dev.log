@@ -2347,3 +2347,4 @@
 2025-12-17T14:10:56 - refactor game loop
 2025-12-17T15:45:45 - fix en passant encoding
 2025-12-18T16:57:02 - fix en passant encoding
+2025-12-18T12:53:06 - update self-play worker
