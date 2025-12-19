@@ -2349,3 +2349,4 @@
 2025-12-18T16:57:02 - fix en passant encoding
 2025-12-18T12:53:06 - update self-play worker
 2025-12-19T17:08:54 - fix batch normalization
+2025-12-19T18:41:25 - refactor trainer
