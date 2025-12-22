@@ -2358,3 +2358,4 @@
 2025-12-21T22:59:55 - update promotion logic
 2025-12-21T11:51:45 - update promotion logic
 2025-12-22T09:04:43 - fix policy head
+2025-12-22T11:32:24 - fix batch normalization
