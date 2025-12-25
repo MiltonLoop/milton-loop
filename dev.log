@@ -2370,3 +2370,4 @@
 2025-12-24T14:11:55 - add checkpoint saving
 2025-12-24T18:46:07 - fix edge case in search
 2025-12-24T23:36:54 - update dependencies
+2025-12-25T21:56:51 - fix en passant encoding
