@@ -2372,3 +2372,4 @@
 2025-12-24T23:36:54 - update dependencies
 2025-12-25T21:56:51 - fix en passant encoding
 2025-12-26T11:54:25 - improve pruning
+2025-12-26T13:23:45 - add position evaluation
