@@ -2373,3 +2373,4 @@
 2025-12-25T21:56:51 - fix en passant encoding
 2025-12-26T11:54:25 - improve pruning
 2025-12-26T13:23:45 - add position evaluation
+2025-12-27T20:01:23 - update elo calculation
