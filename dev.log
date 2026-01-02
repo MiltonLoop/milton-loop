@@ -2380,3 +2380,4 @@
 2025-12-29T16:19:56 - stability improvements
 2026-01-01T16:15:23 - refactor model architecture
 2026-01-01T18:56:09 - fix tests
+2026-01-02T09:01:57 - update MCTS exploration
