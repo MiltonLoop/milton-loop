@@ -2391,3 +2391,4 @@
 2026-01-04T18:12:16 - add arena evaluation
 2026-01-04T17:40:10 - add opening book support
 2026-01-05T19:38:04 - fix batch normalization
+2026-01-05T11:37:56 - fix castling encoding
