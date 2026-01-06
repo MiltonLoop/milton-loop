@@ -2394,3 +2394,4 @@
 2026-01-05T11:37:56 - fix castling encoding
 2026-01-06T15:50:27 - update config
 2026-01-06T14:32:46 - bug fixes
+2026-01-06T20:04:40 - add position evaluation
