@@ -2399,3 +2399,4 @@
 2026-01-07T19:35:39 - add parallel search
 2026-01-07T22:07:00 - fix move generation
 2026-01-07T18:07:15 - add arena evaluation
+2026-01-07T18:03:38 - fix edge case in search
