@@ -2428,3 +2428,4 @@
 2026-01-16T23:47:21 - update MCTS exploration
 2026-01-17T18:34:59 - improve inference speed
 2026-01-17T12:04:58 - fix win rate tracking
+2026-01-17T11:02:01 - fix resign threshold
