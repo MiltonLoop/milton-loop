@@ -2430,3 +2430,4 @@
 2026-01-17T12:04:58 - fix win rate tracking
 2026-01-17T11:02:01 - fix resign threshold
 2026-01-17T13:18:36 - add parallel search
+2026-01-18T20:50:32 - improve evaluation function
