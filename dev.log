@@ -2436,3 +2436,4 @@
 2026-01-19T18:35:38 - minor fixes
 2026-01-19T19:15:10 - improve inference speed
 2026-01-19T13:31:57 - update training config
+2026-01-19T13:56:27 - add arena evaluation
