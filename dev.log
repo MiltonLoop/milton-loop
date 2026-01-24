@@ -2451,3 +2451,4 @@
 2026-01-23T10:16:46 - add temperature scheduling
 2026-01-24T10:48:50 - fix batch normalization
 2026-01-24T17:38:18 - update value network
+2026-01-24T12:21:16 - improve move selection
