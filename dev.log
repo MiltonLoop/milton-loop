@@ -2449,3 +2449,4 @@
 2026-01-23T16:06:17 - add temperature scheduling
 2026-01-23T20:31:33 - add data augmentation
 2026-01-23T10:16:46 - add temperature scheduling
+2026-01-24T10:48:50 - fix batch normalization
