@@ -2452,3 +2452,4 @@
 2026-01-24T10:48:50 - fix batch normalization
 2026-01-24T17:38:18 - update value network
 2026-01-24T12:21:16 - improve move selection
+2026-01-26T19:06:26 - update promotion logic
