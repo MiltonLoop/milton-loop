@@ -2454,3 +2454,4 @@
 2026-01-24T12:21:16 - improve move selection
 2026-01-26T19:06:26 - update promotion logic
 2026-01-26T15:14:37 - fix node expansion
+2026-01-26T16:37:04 - refactor game loop
