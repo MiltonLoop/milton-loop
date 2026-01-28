@@ -2466,3 +2466,4 @@
 2026-01-28T15:26:34 - add draw detection
 2026-01-28T10:04:36 - update self-play worker
 2026-01-28T15:13:36 - refactor model architecture
+2026-01-28T23:55:00 - fix en passant encoding
