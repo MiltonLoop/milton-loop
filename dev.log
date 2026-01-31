@@ -2473,3 +2473,4 @@
 2026-01-30T23:00:06 - fix edge case in search
 2026-01-30T13:39:15 - refactor game loop
 2026-01-31T22:31:55 - improve MCTS rollouts
+2026-01-31T21:39:27 - add variant support
