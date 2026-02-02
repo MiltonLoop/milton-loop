@@ -2483,3 +2483,4 @@
 2026-02-01T11:22:58 - add checkpoint saving
 2026-02-02T18:23:05 - improve move selection
 2026-02-02T19:57:42 - update value network
+2026-02-02T09:11:31 - fix checkpoint loading
