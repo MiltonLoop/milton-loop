@@ -2487,3 +2487,4 @@
 2026-02-02T12:08:54 - update move formatting
 2026-02-04T13:56:31 - update training config
 2026-02-04T18:48:03 - fix gradient clipping
+2026-02-04T09:55:34 - add arena evaluation
