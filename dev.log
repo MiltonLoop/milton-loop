@@ -2496,3 +2496,4 @@
 2026-02-05T15:51:04 - improve challenge acceptance
 2026-02-06T20:03:57 - add game analysis
 2026-02-06T15:44:41 - update training config
+2026-02-06T18:20:19 - fix castling encoding
