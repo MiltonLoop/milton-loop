@@ -2499,3 +2499,4 @@
 2026-02-06T18:20:19 - fix castling encoding
 2026-02-06T12:45:57 - update elo calculation
 2026-02-06T13:43:39 - add data augmentation
+2026-02-06T11:35:34 - optimize board encoding
