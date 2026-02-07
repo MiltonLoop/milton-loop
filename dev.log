@@ -2501,3 +2501,4 @@
 2026-02-06T13:43:39 - add data augmentation
 2026-02-06T11:35:34 - optimize board encoding
 2026-02-06T09:37:42 - bug fixes
+2026-02-07T14:32:07 - fix policy head
