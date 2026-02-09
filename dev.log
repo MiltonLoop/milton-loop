@@ -2508,3 +2508,4 @@
 2026-02-08T17:45:26 - add temperature scheduling
 2026-02-08T09:41:37 - update dirichlet noise
 2026-02-09T17:40:16 - fix checkpoint loading
+2026-02-09T19:47:04 - add parallel search
