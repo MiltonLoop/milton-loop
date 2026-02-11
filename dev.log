@@ -2515,3 +2515,4 @@
 2026-02-10T19:20:11 - fix move generation
 2026-02-10T13:17:49 - fix gradient clipping
 2026-02-11T12:11:48 - update self-play worker
+2026-02-11T09:18:11 - improve self-play speed
